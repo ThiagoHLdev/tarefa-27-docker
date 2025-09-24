@@ -1,0 +1,14 @@
+
+{
+  "name": "tarefa-27-docker",
+  "version": "1.0.0",
+  "description": "Projeto de automação com Cypress para rodar em Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^13.0.0"
+  }
+}
